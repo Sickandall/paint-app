@@ -1,5 +1,7 @@
 # Drawing App Using OpenCV
 This repository contains a simple Python drawing application using OpenCV. The application allows users to draw shapes, change colors, adjust thickness, and save their drawings interactively.
+# Screenshot
+
 
 # Features
 Interactive Drawing
@@ -36,9 +38,6 @@ Controls:
 6. Press - to decrease thickness.
 7. Press s to save your drawing as MyImage.png.
 8. Press q to quit.
-
-# Screenshot
-
 
 # Future Improvements
 {I}   Add an eraser mode.
