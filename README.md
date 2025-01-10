@@ -40,7 +40,7 @@ Controls:
 8. Press q to quit.
 
 # Future Improvements
-{I}   Add an eraser mode.
-{II}  Allow users to select custom colors via a color palette.
-{IV}  Implement undo/redo functionality.
-{V}   Add more shapes like polygons and ellipses.
+1. Add an eraser mode.
+2. Allow users to select custom colors via a color palette.
+3. Implement undo/redo functionality.
+4. Add more shapes like polygons and ellipses.
