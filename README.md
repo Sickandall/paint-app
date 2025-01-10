@@ -1,7 +1,7 @@
 # Drawing App Using OpenCV
 This repository contains a simple Python drawing application using OpenCV. The application allows users to draw shapes, change colors, adjust thickness, and save their drawings interactively.
 # Screenshot
-
+![Screenshot 2025-01-10 170443](https://github.com/user-attachments/assets/c337babb-6cfe-42b8-a334-89cf26790a9f)
 
 # Features
 Interactive Drawing
