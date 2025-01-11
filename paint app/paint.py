@@ -1,5 +1,7 @@
 import numpy as np
 import cv2
+from tkinter import *
+from tkinter import ttk
 
 drawing = False
 mode = "circle"
